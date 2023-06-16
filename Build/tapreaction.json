@@ -1,0 +1,11 @@
+{
+"companyName": "AF",
+"productName": "MilliseX",
+"dataUrl": "tapreaction.data.unityweb",
+"asmCodeUrl": "tapreaction.asm.code.unityweb",
+"asmMemoryUrl": "tapreaction.asm.memory.unityweb",
+"asmFrameworkUrl": "tapreaction.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
